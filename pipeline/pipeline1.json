@@ -61,6 +61,12 @@
 				]
 			}
 		],
+		"variables": {
+			"Fecha": {
+				"type": "String",
+				"defaultValue": "2021-07-21"
+			}
+		},
 		"annotations": [],
 		"lastPublishTime": "2021-05-14T18:43:07Z"
 	},
