@@ -1,0 +1,9 @@
+{
+	"name": "adf-clarogt",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "798af624-3269-4d09-b25f-6fc87f0e5533",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
