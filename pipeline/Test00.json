@@ -36,6 +36,8 @@
 						}
 					},
 					"enableStaging": false,
+					"parallelCopies": 100,
+					"enableSkipIncompatibleRow": true,
 					"translator": {
 						"type": "TabularTranslator",
 						"mappings": [
