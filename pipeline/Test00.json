@@ -48,7 +48,8 @@
 							"linkedServiceName": {
 								"referenceName": "AzureDataLakeStorage",
 								"type": "LinkedServiceReference"
-							}
+							},
+							"path": "logs"
 						}
 					},
 					"translator": {
