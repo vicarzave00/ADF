@@ -259,7 +259,10 @@
 				"type": "Parquet",
 				"typeProperties": {
 					"location": {
-						"type": "AzureBlobFSLocation"
+						"type": "AzureBlobFSLocation",
+						"fileName": "MyFile00",
+						"folderPath": "sistema1",
+						"fileSystem": "raw"
 					},
 					"compressionCodec": "snappy"
 				},
